@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bopanims.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fewPeopleBop0000" x="0" y="0" width="2186" height="522" frameX="0" frameY="-61" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0001" x="0" y="562" width="2087" height="553" frameX="-49" frameY="-30" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0002" x="0" y="1155" width="2071" height="564" frameX="-57" frameY="-19" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0003" x="0" y="1155" width="2071" height="564" frameX="-57" frameY="-19" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0004" x="0" y="1759" width="2048" height="583" frameX="-68" frameY="0" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0005" x="0" y="1759" width="2048" height="583" frameX="-68" frameY="0" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0006" x="0" y="1759" width="2048" height="583" frameX="-68" frameY="0" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0007" x="0" y="1759" width="2048" height="583" frameX="-68" frameY="0" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0008" x="0" y="1759" width="2048" height="583" frameX="-68" frameY="0" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0009" x="0" y="1759" width="2048" height="583" frameX="-68" frameY="0" frameWidth="2186" frameHeight="583"/>
+	<SubTexture name="fewPeopleBop0010" x="0" y="1759" width="2048" height="583" frameX="-68" frameY="0" frameWidth="2186" frameHeight="583"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portraits.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF talk n20000" x="9" y="9" width="364" height="306"/>
+	<SubTexture name="BF talk normal0000" x="392" y="9" width="364" height="306"/>
+	<SubTexture name="BF talk whoa0000" x="775" y="9" width="395" height="302"/>
+	<SubTexture name="Byte talk normal0000" x="1189" y="9" width="310" height="315"/>
+	<SubTexture name="Byte talk smile0000" x="1518" y="9" width="310" height="314"/>
+	<SubTexture name="Byte talk whoa0000" x="9" y="343" width="310" height="310"/>
+	<SubTexture name="GF Talk Smile0000" x="338" y="343" width="594" height="316"/>
+	<SubTexture name="GF talk normal0000" x="951" y="343" width="594" height="316"/>
+</TextureAtlas>

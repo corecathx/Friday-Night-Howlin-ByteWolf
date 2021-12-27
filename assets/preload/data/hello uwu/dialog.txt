@@ -1,0 +1,22 @@
+:byte:Who-
+:bf:Beep bop.
+:byte:Hello there...?
+:byte:Who are you two?
+:bf:Bap beep.
+:gf:My name is Girlfriend
+:gf:And his name is Boyfriend
+:byte:Oh-
+:byte:Hello.
+:bf:Beep boop bop
+:gf:Hello
+:byte:What are you two want to do in here?
+:bf:Beep, beep bop bah behp bop
+:byte:You-
+:byte:Want... Rap Battle with me?
+:bf:Beep bop skdoo bop beep
+:byte:Oh Okay then-
+:byte:Wait- i Forgot to Introduce myself
+:bf:Behp?
+:byte:I'll introduce myself...
+:byte:By singing you a song
+:bf:Beep

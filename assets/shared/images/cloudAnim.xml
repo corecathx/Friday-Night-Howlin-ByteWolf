@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cloudAnim.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cloudAnim0000" x="9" y="9" width="2487" height="454" frameX="0" frameY="-17" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0001" x="9" y="9" width="2487" height="454" frameX="0" frameY="-17" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0002" x="9" y="482" width="2487" height="457" frameX="0" frameY="-7" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0003" x="9" y="482" width="2487" height="457" frameX="0" frameY="-7" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0004" x="9" y="958" width="2487" height="460" frameX="0" frameY="0" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0005" x="9" y="958" width="2487" height="460" frameX="0" frameY="0" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0006" x="9" y="958" width="2487" height="460" frameX="0" frameY="0" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0007" x="9" y="958" width="2487" height="460" frameX="0" frameY="0" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0008" x="9" y="958" width="2487" height="460" frameX="0" frameY="0" frameWidth="2487" frameHeight="471"/>
+	<SubTexture name="cloudAnim0009" x="9" y="958" width="2487" height="460" frameX="0" frameY="0" frameWidth="2487" frameHeight="471"/>
+</TextureAtlas>

@@ -1,0 +1,71 @@
+		if (SONG.song.toLowerCase() == 'byte')
+			{
+				camHUD.visible = false;
+				//FlxG.camera.follow(dad);
+				FlxG.camera.zoom = fakeCamZoom;
+				FlxG.camera.focusOn(gf.getGraphicMidpoint());
+				camFollow.x = dad.x + 300;
+				camFollow.y = dad.getGraphicMidpoint().y - 100;
+				FlxG.camera.follow(camFollow, LOCKON, 0.04 * (30 / (cast (Lib.current.getChildAt(0), Main)).getFPS()));
+				remove(black);
+				dad.playAnim('cutscene', true);
+				boyfriend.playAnim('cutscene', true);
+				gf.playAnim('cutscene', true);
+				gf.alpha = 0;
+				dad.animation.pause();
+				boyfriend.animation.pause();
+				gf.animation.pause();
+			}
+
+            					if (SONG.song.toLowerCase() == 'byte')
+					{						
+						new FlxTimer().start(0.9, function(w3:FlxTimer)
+							{
+								dad.playAnim('cutscene', true);
+								boyfriend.playAnim('cutscene', true);
+								gf.playAnim('cutscene', true);
+							});
+
+						new FlxTimer().start(1.84, function(w1:FlxTimer)
+							{
+								camFollow.x = boyfriend.getGraphicMidpoint().x;
+								camFollow.y = boyfriend.getGraphicMidpoint().y;
+								FlxG.camera.follow(camFollow, LOCKON, 0.04 * (30 / (cast (Lib.current.getChildAt(0), Main)).getFPS()));
+							});
+
+						new FlxTimer().start(5.53, function(w2:FlxTimer)
+							{
+								camFollow.x = dad.x + 300;
+								camFollow.y = dad.getGraphicMidpoint().y - 100;
+								FlxG.camera.follow(camFollow, LOCKON, 0.04 * (30 / (cast (Lib.current.getChildAt(0), Main)).getFPS()));
+							});
+
+						new FlxTimer().start(7.15, function(w3:FlxTimer)
+							{
+								camFollow.x = boyfriend.getGraphicMidpoint().x;
+								camFollow.y = boyfriend.getGraphicMidpoint().y;
+								FlxG.camera.follow(camFollow, LOCKON, 0.04 * (30 / (cast (Lib.current.getChildAt(0), Main)).getFPS()));
+							});
+
+						new FlxTimer().start(8.20, function(w4:FlxTimer)
+							{
+								FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 1, {ease: FlxEase.circOut});
+								FlxTween.tween(gf, {alpha: 1}, 3, {ease: FlxEase.linear});
+							});
+
+						
+						new FlxTimer().start(9.46, function(w3:FlxTimer)
+							{
+								camFollow.x = gf.getGraphicMidpoint().x;
+								camFollow.y = gf.getGraphicMidpoint().y;
+								FlxG.camera.follow(camFollow, LOCKON, 0.04 * (30 / (cast (Lib.current.getChildAt(0), Main)).getFPS()));
+							});
+						
+						FlxG.sound.play(Paths.sound('bytesoundanim'), 1, false, null, true, function()
+							{
+								dad.animation.pause();
+								boyfriend.animation.pause();
+								gf.animation.pause();
+								add(dialogueBox);
+								camHUD.visible = true;
+							});

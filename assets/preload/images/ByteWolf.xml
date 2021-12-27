@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ByteWolf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Byte Cutscene0000" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0001" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0002" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0003" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0004" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0005" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0006" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0007" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0008" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0009" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0010" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0011" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0012" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0013" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0014" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0015" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0016" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0017" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0018" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0019" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0020" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0021" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0022" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0023" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0024" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0025" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0026" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0027" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0028" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0029" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0030" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0031" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0032" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0033" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0034" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0035" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0036" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0037" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0038" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0039" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0040" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0041" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0042" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0043" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0044" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0045" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0046" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0047" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0048" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0049" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0050" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0051" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0052" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0053" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0054" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0055" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0056" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0057" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0058" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0059" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0060" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0061" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0062" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0063" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0064" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0065" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0066" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0067" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0068" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0069" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0070" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0071" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0072" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0073" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0074" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0075" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0076" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0077" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0078" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0079" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0080" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0081" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0082" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0083" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0084" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0085" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0086" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0087" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0088" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0089" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0090" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0091" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0092" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0093" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0094" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0095" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0096" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0097" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0098" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0099" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0100" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0101" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0102" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0103" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0104" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0105" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0106" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0107" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0108" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0109" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0110" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0111" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0112" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0113" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0114" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0115" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0116" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0117" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0118" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0119" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0120" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0121" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0122" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0123" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0124" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0125" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0126" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0127" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0128" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0129" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0130" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0131" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0132" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0133" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0134" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0135" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0136" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0137" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0138" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0139" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0140" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0141" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0142" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0143" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0144" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0145" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0146" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0147" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0148" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0149" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0150" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0151" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0152" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0153" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0154" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0155" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0156" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0157" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0158" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0159" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0160" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0161" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0162" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0163" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0164" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0165" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0166" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0167" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0168" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0169" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0170" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0171" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0172" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0173" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0174" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0175" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0176" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0177" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0178" x="19" y="19" width="361" height="720" frameX="-23" frameY="-3" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0179" x="420" y="19" width="370" height="708" frameX="-16" frameY="-15" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0180" x="420" y="19" width="370" height="708" frameX="-16" frameY="-15" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0181" x="830" y="19" width="356" height="712" frameX="-18" frameY="-11" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0182" x="830" y="19" width="356" height="712" frameX="-18" frameY="-11" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0183" x="1226" y="19" width="351" height="714" frameX="-23" frameY="-9" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0184" x="1226" y="19" width="351" height="714" frameX="-23" frameY="-9" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0185" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0186" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0187" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0188" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0189" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0190" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0191" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0192" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0193" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0194" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0195" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0196" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0197" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0198" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0199" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0200" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0201" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0202" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0203" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0204" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0205" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0206" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0207" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0208" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0209" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0210" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0211" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0212" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0213" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0214" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0215" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0216" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0217" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0218" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0219" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0220" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0221" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0222" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0223" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0224" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0225" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0226" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0227" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0228" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0229" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0230" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0231" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0232" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0233" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0234" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0235" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0236" x="1617" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0237" x="2018" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0238" x="2018" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0239" x="2018" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0240" x="2018" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0241" x="2018" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0242" x="2018" y="19" width="361" height="721" frameX="-23" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0243" x="2419" y="19" width="367" height="723" frameX="0" frameY="0" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0244" x="2419" y="19" width="367" height="723" frameX="0" frameY="0" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0245" x="2826" y="19" width="366" height="723" frameX="-12" frameY="0" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0246" x="2826" y="19" width="366" height="723" frameX="-12" frameY="0" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0247" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0248" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0249" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0250" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0251" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0252" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0253" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0254" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0255" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0256" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0257" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0258" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0259" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0260" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0261" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0262" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0263" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0264" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0265" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0266" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0267" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0268" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0269" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0270" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0271" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0272" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0273" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0274" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0275" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0276" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0277" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0278" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0279" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0280" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0281" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0282" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0283" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0284" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0285" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0286" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0287" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0288" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0289" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0290" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0291" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0292" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0293" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0294" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0295" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0296" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0297" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0298" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0299" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0300" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0301" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0302" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0303" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0304" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0305" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0306" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0307" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0308" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0309" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0310" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0311" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0312" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0313" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Cutscene0314" x="3232" y="19" width="372" height="721" frameX="-12" frameY="-2" frameWidth="386" frameHeight="723"/>
+	<SubTexture name="Byte Sing anim down0000" x="3644" y="19" width="375" height="703" frameX="0" frameY="0" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0001" x="3644" y="19" width="375" height="703" frameX="0" frameY="0" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0002" x="19" y="782" width="372" height="702" frameX="-3" frameY="-1" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0003" x="19" y="782" width="372" height="702" frameX="-3" frameY="-1" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0004" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0005" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0006" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0007" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0008" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0009" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0010" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0011" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0012" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0013" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim down0014" x="431" y="782" width="374" height="689" frameX="-8" frameY="-14" frameWidth="382" frameHeight="703"/>
+	<SubTexture name="Byte Sing anim left0000" x="845" y="782" width="386" height="718" frameX="-21" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0001" x="845" y="782" width="386" height="718" frameX="-21" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0002" x="1271" y="782" width="394" height="713" frameX="0" frameY="-5" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0003" x="1271" y="782" width="394" height="713" frameX="0" frameY="-5" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0004" x="1705" y="782" width="387" height="717" frameX="-8" frameY="-1" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0005" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0006" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0007" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0008" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0009" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0010" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0011" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0012" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0013" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim left0014" x="2132" y="782" width="387" height="718" frameX="-8" frameY="0" frameWidth="407" frameHeight="718"/>
+	<SubTexture name="Byte Sing anim right0000" x="2559" y="782" width="456" height="723" frameX="0" frameY="-1" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0001" x="3055" y="782" width="447" height="723" frameX="-9" frameY="-1" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0002" x="3542" y="782" width="444" height="718" frameX="-12" frameY="-6" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0003" x="3542" y="782" width="444" height="718" frameX="-12" frameY="-6" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0004" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0005" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0006" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0007" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0008" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0009" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0010" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0011" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0012" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0013" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim right0014" x="19" y="1545" width="447" height="724" frameX="-13" frameY="0" frameWidth="460" frameHeight="724"/>
+	<SubTexture name="Byte Sing anim up0000" x="506" y="1545" width="445" height="740"/>
+	<SubTexture name="Byte Sing anim up0001" x="506" y="1545" width="445" height="740"/>
+	<SubTexture name="Byte Sing anim up0002" x="991" y="1545" width="443" height="730" frameX="-2" frameY="-10" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0003" x="991" y="1545" width="443" height="730" frameX="-2" frameY="-10" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0004" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0005" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0006" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0007" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0008" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0009" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0010" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0011" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0012" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0013" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte Sing anim up0014" x="1474" y="1545" width="435" height="731" frameX="-7" frameY="-9" frameWidth="445" frameHeight="740"/>
+	<SubTexture name="Byte hey anim0000" x="1949" y="1545" width="353" height="722" frameX="-8" frameY="0" frameWidth="370" frameHeight="722"/>
+	<SubTexture name="Byte hey anim0001" x="1949" y="1545" width="353" height="722" frameX="-8" frameY="0" frameWidth="370" frameHeight="722"/>
+	<SubTexture name="Byte hey anim0002" x="2342" y="1545" width="364" height="713" frameX="-6" frameY="-9" frameWidth="370" frameHeight="722"/>
+	<SubTexture name="Byte hey anim0003" x="2342" y="1545" width="364" height="713" frameX="-6" frameY="-9" frameWidth="370" frameHeight="722"/>
+	<SubTexture name="Byte hey anim0004" x="2746" y="1545" width="356" height="713" frameX="0" frameY="-9" frameWidth="370" frameHeight="722"/>
+	<SubTexture name="Byte hey anim0005" x="2746" y="1545" width="356" height="713" frameX="0" frameY="-9" frameWidth="370" frameHeight="722"/>
+	<SubTexture name="Byte hey anim0006" x="2746" y="1545" width="356" height="713" frameX="0" frameY="-9" frameWidth="370" frameHeight="722"/>
+	<SubTexture name="Byte idle dance0000" x="3142" y="1545" width="370" height="694" frameX="-6" frameY="-19" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0001" x="3142" y="1545" width="370" height="694" frameX="-6" frameY="-19" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0002" x="3552" y="1545" width="370" height="706" frameX="-4" frameY="-7" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0003" x="3552" y="1545" width="370" height="706" frameX="-4" frameY="-7" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0004" x="19" y="2325" width="374" height="710" frameX="0" frameY="-4" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0005" x="19" y="2325" width="374" height="710" frameX="0" frameY="-4" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0006" x="433" y="2325" width="369" height="711" frameX="-2" frameY="-2" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0007" x="433" y="2325" width="369" height="711" frameX="-2" frameY="-2" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0008" x="433" y="2325" width="369" height="711" frameX="-2" frameY="-2" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0009" x="842" y="2325" width="369" height="713" frameX="-2" frameY="0" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0010" x="842" y="2325" width="369" height="713" frameX="-2" frameY="0" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0011" x="842" y="2325" width="369" height="713" frameX="-2" frameY="0" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0012" x="842" y="2325" width="369" height="713" frameX="-2" frameY="0" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0013" x="842" y="2325" width="369" height="713" frameX="-2" frameY="0" frameWidth="376" frameHeight="714"/>
+	<SubTexture name="Byte idle dance0014" x="1251" y="2325" width="371" height="710" frameX="-2" frameY="-4" frameWidth="376" frameHeight="714"/>
+</TextureAtlas>

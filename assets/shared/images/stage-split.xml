@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stage-split.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stageAnima0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1403"/>
+	<SubTexture name="stageAnima0001" x="2600" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1403"/>
+	<SubTexture name="stageAnima0002" x="5200" y="0" width="2560" height="1403"/>
+	<SubTexture name="stageAnima0003" x="0" y="1443" width="2560" height="1403"/>
+	<SubTexture name="stageAnima0004" x="2600" y="1443" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1403"/>
+	<SubTexture name="stageAnima0005" x="2600" y="1443" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1403"/>
+	<SubTexture name="stageAnima0006" x="5200" y="1443" width="2560" height="1403"/>
+	<SubTexture name="stageAnima0007" x="5200" y="1443" width="2560" height="1403"/>
+	<SubTexture name="stageAnima0008" x="0" y="2886" width="2560" height="1401" frameX="0" frameY="0" frameWidth="2560" frameHeight="1403"/>
+	<SubTexture name="stageAnima0009" x="0" y="2886" width="2560" height="1401" frameX="0" frameY="0" frameWidth="2560" frameHeight="1403"/>
+</TextureAtlas>

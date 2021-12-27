@@ -1,0 +1,27 @@
+:byte-sweat:Who-
+:bf:Yo
+:gf:Hi
+:byte-sweat:Oh, you two.
+:bf-whoa:Wait, you already know who are we?
+:byte2:Yeah.
+:byte:You're the 'Boyfriend' from The Dearest Family, and this girl is the 'Girlfriend'.
+:byte2:Daddy Dearest's Daughter.
+:byte-sweat:Am i wrong?
+:gf-smile:No, you're right. I'm the Girlfriend
+:gf:And he is my Boyfriend
+:byte-sweat:Oh-
+:byte2:Hello.
+:bf2:Hi
+:gf-smile:Hello
+:byte:What are you two want to do in here?
+:bf:We're just walk around this park, and noticed that you're just standing still here
+:bf2:So, do you want to Rap Battle with me?
+:byte-sweat:You-
+:byte-sweat:Want... Rap Battle with me?
+:bf:Yeah
+:byte2:Oh Okay then-
+:byte-sweat:Wait- i Forgot to Introduce myself
+:bf:Huh?
+:byte:I'll introduce myself...
+:byte2:By singing you a song
+:bf:Alright.
